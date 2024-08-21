@@ -2,7 +2,7 @@ let projectsData = [
     {
         name: 'New Gen Wrestling Club Website Design',
         description: 'A walkthrough of my design process while working with New Gen Wrestling club.',
-        imagePath: '../styles/pictures/projectSeven/finalHome.png',
+        imagePath: '../styles/pictures/projectSeven/finalpic.png',
         alt: 'New Gen Wrestling Club landing page.',
         page: 'projectSeven.html'
     },
